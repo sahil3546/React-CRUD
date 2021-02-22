@@ -194,7 +194,7 @@ class Register extends React.Component {
                 </div>
                 <div className="form-group col-md-4">
                   <label htmlFor="profession" className="col-form-label">Profession <span className="requiredField">*</span></label>
-                  <input type="text" name="profession" className="form-control" value={this.state.fields.profession || ""} onChange={this.handleChange} id="profession" placeholder="example@gmail.com" />
+                  <input type="text" name="profession" className="form-control" value={this.state.fields.profession || ""} onChange={this.handleChange} id="profession" placeholder="Profession" />
                   <div className="profession-feedback">
                     <div className="errorMsg">{this.state.errors.profession}</div>
                   </div>

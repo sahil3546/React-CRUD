@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "firstName": "Sahil",
+      "lastName": "Verma",
+      "username": "sa3546",
+      "phone": 7837374939,
+      "email": "sahil@gmail.com",
+      "profession": "Web Developer",
+      "review": "Hello World",
+      "id": 1
+    },
+    {
+      "firstName": "Aash ",
+      "lastName": "Arora",
+      "username": "aash007",
+      "email": "aash@gmail.com",
+      "phone": "1478523695",
+      "profession": "Sales Manager",
+      "review": "Great Work !!",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
